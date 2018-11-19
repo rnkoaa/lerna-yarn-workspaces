@@ -1,0 +1,11 @@
+{
+    "name": "hipster-store",
+    "version": "1.0.0",
+    "private": true,
+    "main": "index.js",
+    "license": "MIT",
+    "workspaces": ["applications/*", "packages/*"],
+    "devDependencies": {
+        "lerna": "^3.4.3"
+    }
+}

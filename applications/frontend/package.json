@@ -1,0 +1,9 @@
+{
+    "name": "@hipster-store/frontend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@hipster-store/common": "1.0.0"
+    }
+}
