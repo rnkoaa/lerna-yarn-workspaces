@@ -4,7 +4,7 @@
     "private": true,
     "main": "index.js",
     "license": "MIT",
-    "workspaces": ["applications/*", "packages/*"],
+    "workspaces": ["frontend", "packages/*"],
     "devDependencies": {
         "lerna": "^3.4.3"
     }
